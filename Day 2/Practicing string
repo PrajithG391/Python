@@ -1,0 +1,9 @@
+# str="hi"
+# str2="bye"
+# str3="snkjlvnedkv azk"
+# print(len(str+str3+str2))
+# print(str3.endswith("kz"))
+# print(str.capitalize())
+# print(str3.replace("n","ad"))
+# print(str3.find("l"))
+# print(str3.count("n"))
