@@ -1,9 +1,9 @@
-# a =  int("2")
-# b = 2
-# sum = b+a
-# print(sum)
-# print(type(sum))
+a =  int("2")
+b = 2
+sum = b+a
+print(sum)
+print(type(sum))
 
 
-# a=int(input("enter the num"))
-# b=int(input("enter the num"))
+a=int(input("enter the num"))
+b=int(input("enter the num"))
